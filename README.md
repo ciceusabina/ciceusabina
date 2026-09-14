@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sabina 👋
 
-<!--
-**ciceusabina/ciceusabina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year student in Telecommunications & Information Technology (TST-ID) at Universitatea Politehnica Timișoara. Learning web development alongside my coursework — HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|---|---|
+| [rewear-marketplace](https://github.com/ciceusabina/rewear-marketplace) | Second-hand clothing marketplace concept for the Romanian market — product listings, category filtering, listing form |
+| [studytrack](https://github.com/ciceusabina/studytrack) | Task organizer for students, grouped by subject, with `localStorage` persistence |
+| [skycheck-weather](https://github.com/ciceusabina/skycheck-weather) | Live weather lookup by city using the Open-Meteo API — `fetch`, `async/await` |
+| [budgetbuddy](https://github.com/ciceusabina/budgetbuddy) | Income/expense tracker with auto-calculated balance and `localStorage` persistence |
+
+## Tech I'm learning
+
+`HTML5` · `CSS3` · `JavaScript` · `Git & GitHub`
+
+## Background
+
+Coursework in power electronics, telecommunications systems, signal detection and estimation, television systems, databases, and analog circuits.
