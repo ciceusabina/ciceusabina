@@ -1,6 +1,6 @@
 # Hi, I'm Sabina 👋
 
-Third-year student in  Electronics, Telecommunications and Information Technologies  at Universitatea Politehnica Timișoara. Learning web development alongside my coursework — HTML, CSS, and JavaScript.
+Fourth-year student in  Electronics, Telecommunications and Information Technologies  at Universitatea Politehnica Timișoara. Learning web development alongside my coursework — HTML, CSS, and JavaScript.
 
 ## Projects
 
